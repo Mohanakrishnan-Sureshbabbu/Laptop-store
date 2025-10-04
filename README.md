@@ -65,3 +65,5 @@ The primary document, `Laptop Store.docx`, contains the following sections:
 | 7. | User Story Backlog |
 | 8. | Release Plan |
 | 9. | Mockups |
+
+![Home Screen](https://github.com/Mohanakrishnan-Sureshbabbu/Laptop-store/blob/9b2194414d511db27613ddb4ca445c87e03b90bf/Laptop%20store_Home%20screen.png)
