@@ -70,5 +70,5 @@ The primary document, `Laptop Store.docx`, contains the following sections:
 
 ![Order Page](https://github.com/Mohanakrishnan-Sureshbabbu/Laptop-store/blob/ced1880122a8e55cdc26f655f026269b5845e630/Laptop%20store_Product%20page.png)
 
-![order confirmation](https://github.com/Mohanakrishnan-Sureshbabbu/Laptop-store/blob/ced1880122a8e55cdc26f655f026269b5845e630/Laptop%20store_Product%20page.png)
+![order confirmation](https://github.com/Mohanakrishnan-Sureshbabbu/Laptop-store/blob/ae92cd7acddbe40535b7e8d9df8eab880c1fd6cf/Laptop%20store_Order%20confirmation.png)
 
