@@ -67,3 +67,8 @@ The primary document, `Laptop Store.docx`, contains the following sections:
 | 9. | Mockups |
 
 ![Home Screen](https://github.com/Mohanakrishnan-Sureshbabbu/Laptop-store/blob/9b2194414d511db27613ddb4ca445c87e03b90bf/Laptop%20store_Home%20screen.png)
+
+![Order Page](https://github.com/Mohanakrishnan-Sureshbabbu/Laptop-store/blob/ced1880122a8e55cdc26f655f026269b5845e630/Laptop%20store_Product%20page.png)
+
+![order confirmation](https://github.com/Mohanakrishnan-Sureshbabbu/Laptop-store/blob/ced1880122a8e55cdc26f655f026269b5845e630/Laptop%20store_Product%20page.png)
+
